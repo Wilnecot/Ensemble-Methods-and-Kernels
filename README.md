@@ -5,8 +5,7 @@ Especialización en Ciencia de Datos y Analítica
 Curso: Métodos Ensemble y Kernels · Código: 203008076  
 Grupo: 1 · Periodo: 2026-1
 
-**Estudiante:** Wilmer Ricardo Urda · C.C. 1017194627  
-**Docente:** Ing. Jorge Luis Quintero Lopez
+**Estudiante:** Wilmer Ricardo Urda 
 
 ---
 
@@ -153,12 +152,6 @@ El dataset `Iris` está incluido en scikit-learn (`sklearn.datasets.load_iris`).
 - `random_state=42` en todos los modelos para reproducibilidad
 - Curvas de aprendizaje con validación cruzada 5-fold y bandas de confianza (±1σ)
 - `StandardScaler` obligatorio antes de SVM (margen dependiente de distancia)
-
----
-
-## Certificación
-
-`G01_WILMER RICARDO_ML_Certification.pdf` — Certificado del programa de Machine Learning de IBM (incluido como evidencia complementaria de la Fase 3).
 
 ---
 
