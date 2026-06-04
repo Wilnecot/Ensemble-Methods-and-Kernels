@@ -157,4 +157,4 @@ El dataset `Iris` está incluido en scikit-learn (`sklearn.datasets.load_iris`).
 
 ## Licencia
 
-Trabajo académico — UNAD 2026. Uso educativo.
+Trabajo académico — UNAD 2026. 
